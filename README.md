@@ -10,7 +10,7 @@
     - [LSPosed JingMatrix (Canary Version)](https://github.com/JingMatrix/LSPosed/actions/workflows/core.yml?query=branch%3Amaster) (I recommend it, but it's not required. You can use Official LSPosed or another LSPosed fork.)
     
 ### For non-rooted users
- - Rootless usage requires microG, so first download GmsCore or MicroG-RE.
+ - Rootless usage requires microG, so first download ***GmsCore*** or ***MicroG-RE***.
     - [GmsCore](https://github.com/ReVanced/GmsCore/releases)
     - [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases) (I prefer, better UI)
  
