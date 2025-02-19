@@ -7,7 +7,7 @@
   (LSPosed is required for Update Locker.)
     - [Zygisk Detach](https://github.com/j-hc/zygisk-detach/releases)
     - [Update Locker](https://github.com/Xposed-Modules-Repo/ru.mike.updatelocker)
-    - [LSPosed JingMatrix (Canary Version)](https://github.com/JingMatrix/LSPosed/actions/workflows/core.yml?query=branch%3Amaster) (I recommend it, but it's not required. You can use Official LSPosed or another LSPosed fork.)
+    - [LSPosed JingMatrix (Canary Version)](https://nightly.link/JingMatrix/LSPosed/workflows/core/master) (I recommend it, but it's not required. You can use Official LSPosed or another LSPosed fork.)
     
 ### For non-rooted users
  - Rootless usage requires microG, so first download ***GmsCore*** or ***MicroG-RE***.
