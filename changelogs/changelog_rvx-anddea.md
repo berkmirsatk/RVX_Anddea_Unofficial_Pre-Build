@@ -1,8 +1,7 @@
 # RVX Anddea
-- **Patch version:** v3.4.0 (2025-02-14)
+- **Patch Version:** 3.5.0-dev.1 (2025-03-07)
 - **YT Version:** 19.44.39
-- **YTM Version:** 7.16.53
 ## Changelog
-- https://github.com/anddea/revanced-patches/releases/tag/v3.4.0
+- https://github.com/anddea/revanced-patches/releases/tag/v3.5.0-dev.1
 ---
 Telegram: https://t.me/rvx_bmk_repo
