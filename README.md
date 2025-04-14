@@ -1,5 +1,5 @@
 # RVX BMK REPO
-- Root and non-root files created with RVX-Anddea Patches
+- Root and non-root files created with RVX Anddea Patches
 
 # Guide
 ### For rooted users
@@ -17,8 +17,8 @@
 
 ## Telegram
  - Join to stay updated. Everyone's welcome!
-     - [**Channel (Repo)**](https://t.me/rvx_bmk_repo)
-     - [**Chat**](https://t.me/rvx_bmk_chat)
+     - [**Channel (Repo)**](https://t.me/rvxa_bmk_repo)
+     - [**Chat**](https://t.me/rvxa_bmk_chat)
 ---
 ### Credits
 > **anddea** for [patches](https://github.com/anddea/revanced-patches)
