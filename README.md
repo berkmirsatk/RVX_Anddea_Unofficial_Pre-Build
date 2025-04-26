@@ -1,4 +1,4 @@
-![](/rvx_anddea/RVXA-BMK-REPO.jpg)
+![](/rvx_anddea/RVXA-BMK-REPO.png)
 
 # RVXA BMK REPO
 - Root and non-root files created with RVX Anddea Patches
