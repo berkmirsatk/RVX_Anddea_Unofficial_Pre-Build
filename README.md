@@ -16,6 +16,8 @@
     - [GmsCore](https://github.com/ReVanced/GmsCore/releases)
     - [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases) (I prefer, better UI)
  
+### For Spotify users
+ - Apks are available on my telegram channel
 
 ## Telegram
  - Join to stay updated. Everyone's welcome!
