@@ -17,14 +17,13 @@
     - [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases) (I prefer, better UI)
  
 ### For Spotify users
- - Apks are available on my telegram channel
+ - Apks are available on my telegram group
 
 ## Telegram
  - Join to stay updated. Everyone's welcome!
-     - [**Channel (Repo)**](https://t.me/rvxa_bmk_repo)
-     - [**Chat**](https://t.me/rvxa_bmk_chat)
+     - [**RVXA BMK Community**](https://t.me/rvxa_bmk)
 ---
-### Credits
+### Credits💜
 > **anddea** for [patches](https://github.com/anddea/revanced-patches)
 >
 > **inotia00** for [RVX Manager](https://github.com/inotia00/revanced-manager)
