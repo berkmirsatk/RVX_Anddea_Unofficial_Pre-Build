@@ -1,6 +1,6 @@
 {
-  "version": "v8.05.51 (v3.6.0-dev.1)",
-  "versionCode": 344,
-  "zipUrl": "https://github.com/berkmirsatk/RVXA-BMK-REPO/releases/download/RVX-Anddea_v3.6.0-dev.4/RVX.Anddea.YTM.armeabi-v7a.zip",
+  "version": "v8.18.52 (v3.10.0-dev.2)",
+  "versionCode": 345,
+  "zipUrl": "https://github.com/berkmirsatk/RVXA-BMK-REPO/releases/download/RVX-Anddea_v3.10.0-dev.2/RVX.Anddea.YTM.armeabi-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/berkmirsatk/RVXA-BMK-REPO/main/changelogs/changelog_rvx-anddea.md"
 }
