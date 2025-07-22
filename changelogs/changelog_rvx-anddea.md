@@ -1,7 +1,8 @@
 # RVX Anddea
-- ***Patch Version:*** v3.10.0-dev.2 (2025-06-06)
-- ***YTM Version:*** 8.18.52 (fix update - [v3.10.0-dev.3](https://github.com/anddea/revanced-patches/releases/tag/v3.10.0-dev.3))
-### ***[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.10.0-dev.2)***
-### ***[Compare Changes with Previous Patch Version](https://github.com/anddea/revanced-patches/compare/v3.10.0-dev.1...v3.10.0-dev.3)***
+- ***Patch Version:*** v3.10.0 (2025-07-17)
+- ***YT Version:*** v20.21.37
+- ***YTM Version:*** v8.24.53
+### ***[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.10.0)***
+### ***[Compare Changes with Previous Patch Version](https://github.com/anddea/revanced-patches/compare/v3.10.0-dev.3...v3.10.0)***
 ---
 ### ***[Telegram](https://t.me/rvxa_bmk)***
