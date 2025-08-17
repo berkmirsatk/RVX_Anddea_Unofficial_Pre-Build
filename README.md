@@ -1,7 +1,7 @@
-![](/rvx_anddea/RVXA-BMK-REPO.png)
+![](/)
 
 # RVXA BMK REPO
-- Root and non-root files created with RVX Anddea Patches
+- Root and non-root files created with ReVanced/ReVanced Extended (RVX)/RVX Anddea Patches.
 
 # Guide
 ### For rooted users
@@ -21,7 +21,7 @@
 
 ## Telegram
  - Join to stay updated. Everyone's welcome!
-     - [**RVXA BMK Community**](https://t.me/rvxa_bmk)
+     - [**BMK's Group**](https://t.me/bmk_group)
 ---
 ### Credits💜
 > **anddea** for [patches](https://github.com/anddea/revanced-patches)
