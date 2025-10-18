@@ -1,7 +1,5 @@
-![](/)
-
 # RVXA BMK REPO
-- Root and non-root files created with ReVanced/ReVanced Extended (RVX)/RVX Anddea Patches.
+ - Root and non-root files created with RVX Anddea Patches.
 
 # Guide
 ### For rooted users
@@ -15,13 +13,11 @@
  - Rootless usage requires microG, so first download ***GmsCore*** or ***MicroG-RE***.
     - [GmsCore](https://github.com/ReVanced/GmsCore/releases)
     - [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases) (I prefer, better UI)
- 
-### For Spotify users
- - Apks are available on my telegram group
 
 ## Telegram
  - Join to stay updated. Everyone's welcome!
-     - [**BMK's Group**](https://t.me/bmk_group)
+     - [**Channel**](https://t.me/brkmrst)
+     - [**Chat**](https://t.me/brkmrst_chat)
 ---
 ### Credits💜
 > **anddea** for [patches](https://github.com/anddea/revanced-patches)
