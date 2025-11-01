@@ -1,5 +1,6 @@
 # RVX Anddea Unofficial Pre-Build Apk's and Module's
- - Rooted and non-rooted files patched with RVX Anddea Patches for YouTube and YouTube Music.
+<img width="1920" height="810" alt="2  update logo_20251101_183108_0000" src="https://github.com/user-attachments/assets/dbd4c2d6-1ee2-46b0-b905-f8ac42cd19d0" />
+Rooted and non-rooted files patched with RVX Anddea Patches for YouTube and YouTube Music.
 
 # Guide
 ### For rooted users
