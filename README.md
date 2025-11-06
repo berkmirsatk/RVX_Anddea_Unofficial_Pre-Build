@@ -19,8 +19,8 @@ Rooted and non-rooted files patched with RVX Anddea Patches for YouTube and YouT
 
 ## Telegram
  - Join to stay updated. Everyone's welcome!
-     - [**Channel**](https://t.me/RVXAnddea_prebuild)
-     - [**Chat**](https://t.me/brkmrst_chat)
+     - [**Channel**](https://t.me/RVXAnddeaPrebuild)
+     - [**Chat**](https://t.me/RVXAnddeaPrebuildChat)
 ---
 ### Credits💜
 > **anddea** for [patches](https://github.com/anddea/revanced-patches)
